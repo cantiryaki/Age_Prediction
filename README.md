@@ -18,7 +18,6 @@ Bu çalışma insan yüz görüntülerinden hangi yaşa sahip olduklarının tes
   
   Arayüz olarak kullanımının uygun ve hızla geliştirilebilmesi nedeniyle streamlit (https://streamlit.io/) kullanılmıtır. Kullanıcı tarafından yüklenen her görüntü web arayüzünde sonuçlarıyla beraber gösterilecektir.
   
- **Modelin geliştirildiği notebooka erişebilmek için;**  <br>  [https://www.kaggle.com/code/sahintiryaki/facial-expressions-classification](https://www.kaggle.com/code/cantiryaki/ya-tahmin-uygulamas)
 
 ## Demo
 
